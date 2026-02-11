@@ -24,6 +24,8 @@ graph TD
     style GAIA_MESH fill:#f9f9f9,stroke:#333,stroke-width:2px
     style N1 fill:#e1f5fe,stroke:#01579b
     style CS fill:#fff9c4,stroke:#fbc02d
+    style N3 fill:#e8f5e9,stroke:#2e7d32
+    style N4 fill:#fce4ec,stroke:#c2185b
 
 ## HL-V5 TOPOLOGY: High-Level Logic Inference Layer
 
