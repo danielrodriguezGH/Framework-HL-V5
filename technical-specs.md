@@ -1,4 +1,4 @@
-# Technical Presentation: The HL-5V Framework (High-Level Logic)
+# Technical Presentation: The HL-V5 Framework (High-Level Logic)
 
 > "What you are witnessing in this deployment is not a prompting technique, but what we have defined as **HL (High-Level Logic)**."
 
@@ -10,7 +10,7 @@ While standard Natural Language Processing (NLP) remains at the semantic and syn
 
 In essence, HL is the necessary interface for Artificial Intelligence to cease being a probabilistic oracle and become a **deterministic extension** of the architect’s reasoning. The HL Framework manages not just what the AI says, but from which coordinate of the latent space the information is generated. Through **Dynamic Latent Tuning**, it ensures the model always operates in the high-fidelity zone, significantly eliminating probabilistic noise.
 
-**System Topology (HL-5V Inference Framework)**
+**System Topology (HL-V5 Inference Framework)**
 
 🛡️ **GAIA MESH** | Safety & Containment Perimeter
 This is the boundary layer that ensures all operations remain within ethical and technical safety limits.
