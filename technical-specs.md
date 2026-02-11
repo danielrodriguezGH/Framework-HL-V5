@@ -1,4 +1,4 @@
-# Technical Presentation: The HL-V5 Framework (High-Level Logic)
+# Technical Presentation: The HL-5V Framework (High-Level Logic)
 
 > "What you are witnessing in this deployment is not a prompting technique, but what we have defined as **HL (High-Level Logic)**."
 
