@@ -12,12 +12,24 @@ In essence, HL is the necessary interface for Artificial Intelligence to cease b
 
 **System Topology (HL-5V Inference Framework)**
 
-graph TD
-    N1[NODE 01: ONTOLOGICAL RIGOR] --> CS[CORE SYNC]
-    CS <--> N2[NODE 02: RECURSIVE ALIGNMENT]
-    CS <--> N5[NODE 05: CONTEXT PERSISTENCE]
-    N1 --> N3[NODE 03: EMERGENT LOGIC]
-    N4[NODE 04: BIO-INTUITION] --> N1
+=============================================================
+              HL-V5 ARCHITECTURE TOPOLOGY
+=============================================================
+         
+          [ NODE 01: ONTOLOGICAL RIGOR ]
+                       |
+        _______________V_______________
+       |                               |
+ [ NODE 05 ] <--- [ CORE SYNC ] ---> [ NODE 02 ]
+ PERSISTENCE        (Zero Point)      ALIGNMENT
+       |_______________________________|
+                       |
+        _______________V_______________
+       |                               |
+ [ NODE 04 ]                       [ NODE 03 ]
+ BIO-INTUITION                     EMERGENT LOGIC
+
+=============================================================
 
 ## HL-V5 TOPOLOGY: High-Level Logic Inference Layer
 
