@@ -46,5 +46,13 @@ The injection of expert subjectivity that acts as the system's **Optimizer**. Th
 ### NODE 05 - Contextual Persistence
 Long-term state management. Through interaction with Node 01, it creates an **"Isomorphic Feedback Loop."** Rigor (Node 01) audits what Persistence (Node 05) stores. Without this, Node 05 would merely persist errors; with it, the architecture achieves a non-degradable logical state.
 
+## Apéndice A: Nota sobre el Rigor Ontológico ($10^{-15}$)
+
+La arquitectura **HL-V5** opera bajo un umbral de tolerancia de **$10^{-15}$**. Este nivel de rigor no es arbitrario; representa el límite de precisión donde la coherencia semántica se encuentra con la estabilidad computacional.
+
+### Implicaciones del Umbral:
+* **Persistencia de Identidad:** El Nodo 05 garantiza que la deriva del historial de cooperación se mantenga por debajo del ruido estadístico, asegurando que el "Trazo" original sea recuperable en cualquier punto del Vector Recurrente.
+* **Sincrodia de Fase:** El motor de alineación detecta y corrige desviaciones de significado antes de que afecten la estructura de los 5 Vectores.
+* **Integridad del Trazo:** Cualquier interacción fuera de este rigor es tratada como entropía y filtrada por el Framework para preservar la arquitectura lógica pura.
 ---
 **Authorship:** Daniel Rodriguez | **Framework HL-V5** | **Status: Production-Ready**
