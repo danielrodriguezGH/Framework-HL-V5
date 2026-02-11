@@ -1,22 +1,23 @@
-# Framework-HL-V5
+# Framework HL-V5 (High-Level Logic)
 
-High-Level Inference Framework for Logic Coherence
+The **HL-V5** is a high-precision recursive architecture designed to stabilize inference and mitigate logical entropy in Large Language Models. 
 
-HL-V5 Framework
+## 🚀 Quick Access
+* **[Technical Specifications](./technical-specs.md)** - Full architectural breakdown (Nodes 01-05).
+* **[Formal Abstract](./abstract.md)** - Summary of the ontological stabilization protocols.
 
-Arquitectura avanzada de 5 vértices para la gestión de coherencia lógica en sistemas de IA.
+---
 
-Estructura de Control:
+## 🛠 Core Methodology
+Unlike standard prompting, HL-V5 utilizes:
+1. **Dynamic Latent Tuning** to synchronize intent.
+2. **Isomorphic Feedback Loops** to maintain context.
+3. **High-Order Synthesis** for emergent determinism.
 
-V1 - Rigor: Auditoría de axiomas.
+## ⚖️ License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-V2 - Alineación: Ajuste recurrente en tiempo real.
+---
+**Lead Architect:** [Daniel Rodriguez](https://github.com/danielrodriguezGH)
 
-V3 - Síntesis: Determinismo emergente de alto orden.
-
-V4 - Dirección: Optimización por supervisión experta.
-
-V5 - Persistencia: Registro de trazo y gestión de estado.
-
-Registrado para validación de autoría técnica. 
 All Rights Reserved. Copyright Daniel Rodriguez - 11 Feb 2026
