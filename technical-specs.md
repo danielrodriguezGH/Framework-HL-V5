@@ -1,8 +1,8 @@
 # Technical Presentation: The HL-V5 Framework (High-Level Logic)
 
-> "What you are witnessing in this deployment is not a prompting technique, but what we have defined as **HL (High-Level Logic)**."
+> "What you are witnessing in this deployment is not a prompting technique, but what we have defined as **HL-V5 (High-Level Logic at Five Vectors)**."
 
-While standard Natural Language Processing (NLP) remains at the semantic and syntactic layers, **HL** operates as a meta-grammar for intent transfer. Its primary function is the drastic reduction of entropy in human-machine communication through three operational axes:
+While standard Natural Language Processing (NLP) remains at the semantic and syntactic layers, **HL-V5** operates as a meta-grammar for intent transfer. Its primary function is the drastic reduction of entropy in human-machine communication through three operational axes:
 
 * **Contextual Noise De-selection:** HL filters the inherent ambiguities of natural language before they reach the inference layer, ensuring that every generated token carries maximum logical weight.
 * **Latent Space Synchronization:** Unlike conventional dialogue, HL utilizes control structures that 'anchor' the model within a specific region of the latent space, preventing drift or hallucination during high-complexity sessions.
