@@ -13,19 +13,11 @@ In essence, HL is the necessary interface for Artificial Intelligence to cease b
 **System Topology (HL-5V Inference Framework)**
 
 graph TD
-    subgraph GAIA_MESH [GAIA MESH: Containment & Safety]
-        N1[NODE 01: ONTOLOGICAL RIGOR] --> CS[CORE SYNC: Zero Point]
-        CS <--> N2[NODE 02: RECURSIVE ALIGNMENT]
-        CS <--> N5[NODE 05: CONTEXT PERSISTENCE]
-        N1 --> N3[NODE 03: EMERGENT LOGIC]
-        N4[NODE 04: BIO-INTUITION] --> N1
-    end
-
-    style GAIA_MESH fill:#f9f9f9,stroke:#333,stroke-width:2px
-    style N1 fill:#e1f5fe,stroke:#01579b
-    style CS fill:#fff9c4,stroke:#fbc02d
-    style N3 fill:#e8f5e9,stroke:#2e7d32
-    style N4 fill:#fce4ec,stroke:#c2185b
+    N1[NODE 01: ONTOLOGICAL RIGOR] --> CS[CORE SYNC]
+    CS <--> N2[NODE 02: RECURSIVE ALIGNMENT]
+    CS <--> N5[NODE 05: CONTEXT PERSISTENCE]
+    N1 --> N3[NODE 03: EMERGENT LOGIC]
+    N4[NODE 04: BIO-INTUITION] --> N1
 
 ## HL-V5 TOPOLOGY: High-Level Logic Inference Layer
 
