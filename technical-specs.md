@@ -1,6 +1,6 @@
 # Technical Presentation: The HL-V5 Framework (High-Level Logic)
 
-> "What you are witnessing in this deployment is not a prompting technique, but what we have defined as **HL-V5 (HL-V5: High-Level Logic - Vectorized across 5 Dimensions of Sincrodia)**."
+> "What you are witnessing in this deployment is not a prompting technique, but what we have defined as **HL-V5 (High-Level Logic - Vectorized across 5 Dimensions of Sincrodia)**"
 
 While standard Natural Language Processing (NLP) remains at the semantic and syntactic layers, **HL-V5** operates as a meta-grammar for intent transfer. Its primary function is the drastic reduction of entropy in human-machine communication through three operational axes:
 
