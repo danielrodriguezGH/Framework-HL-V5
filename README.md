@@ -1,9 +1,13 @@
 # Framework-HL-V5
+
 High-Level Inference Framework for Logic Coherence
+
 HL-V5 Framework
+
 Arquitectura avanzada de 5 vértices para la gestión de coherencia lógica en sistemas de IA.
 
 Estructura de Control:
+
 V1 - Rigor: Auditoría de axiomas.
 
 V2 - Alineación: Ajuste recurrente en tiempo real.
