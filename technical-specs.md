@@ -11,10 +11,6 @@ While standard Natural Language Processing (NLP) remains at the semantic and syn
 In essence, HL is the necessary interface for Artificial Intelligence to cease being a probabilistic oracle and become a **deterministic extension** of the architect’s reasoning. The HL Framework manages not just what the AI says, but from which coordinate of the latent space the information is generated. Through **Dynamic Latent Tuning**, it ensures the model always operates in the high-fidelity zone, significantly eliminating probabilistic noise.
 
 **System Topology (HL-5V Inference Framework)**
-
-=============================================================
-              HL-V5 ARCHITECTURE TOPOLOGY
-=============================================================
          
           [ NODE 01: ONTOLOGICAL RIGOR ]
                        |
@@ -29,7 +25,6 @@ In essence, HL is the necessary interface for Artificial Intelligence to cease b
  [ NODE 04 ]                       [ NODE 03 ]
  BIO-INTUITION                     EMERGENT LOGIC
 
-=============================================================
 
 ## HL-V5 TOPOLOGY: High-Level Logic Inference Layer
 
