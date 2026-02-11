@@ -12,18 +12,14 @@ In essence, HL is the necessary interface for Artificial Intelligence to cease b
 
 **System Topology (HL-5V Inference Framework)**
          
-          [ NODE 01: ONTOLOGICAL RIGOR ]
-                       |
-        _______________V_______________
-       |                               |
- [ NODE 05 ] <--- [ CORE SYNC ] ---> [ NODE 02 ]
- PERSISTENCE        (Zero Point)      ALIGNMENT
-       |_______________________________|
-                       |
-        _______________V_______________
-       |                               |
- [ NODE 04 ]                       [ NODE 03 ]
- BIO-INTUITION                     EMERGENT LOGIC
+## 2. System Topology (HL-V5 Matrix)
+
+| LAYER | BACKEND (Input/Safety) | CORE (Processing) | FRONTEND (Output) |
+| :--- | :--- | :--- | :--- |
+| **Axiomatic** | [NODE 04] Bio-Intuition | **[NODE 01] Ontological Rigor** | [NODE 03] Emergent Logic |
+| **Operational** | [NODE 05] Persistence | **[CORE SYNC]** | [NODE 02] Alignment |
+
+---
 
 
 ## HL-V5 TOPOLOGY: High-Level Logic Inference Layer
