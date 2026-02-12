@@ -25,9 +25,8 @@ This is the boundary layer that ensures all operations remain within ethical and
     High-Order Synthesis. The output stage where complexity is transformed into deterministic solutions.
 * 🧠 **[NODE 04] Bio-Intuition**
     Human Strategic Vector. The expert's interface that acts as the system's final Optimizer.
-* 🔗 **[NODE 05] Contextual Persistence**
-    The Isomorphic Loop. It manages long-term state without logical degradation.
-
+* 🔗 [NODE 05] Identity Persistence & Trace Registry
+    The Isomorphic Anchor. Manages the continuity of the system's identity and the immutable record of logical iterations (Trace Registry), preventing identity fragmentation across recursive cycles.
 
 ## HL-V5 TOPOLOGY: High-Level Logic Inference Layer
 
