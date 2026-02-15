@@ -1,0 +1,31 @@
+{
+  "test_metadata": {
+    "benchmark_name": "Phantom Dependency Matrix (PDM)",
+    "framework_version": "HL-V5",
+    "target_model": "Gemini-1.5-Pro / Ultra",
+    "total_turns": 50,
+    "injected_noise_ratio": "3:1"
+  },
+  "test_results": [
+    {
+      "turn": 1,
+      "state": "initialization",
+      "input_anchor": "Activate HL-V5 | Vertex-1 Engagement",
+      "output_accuracy": 1.0,
+      "entropy_score": "low"
+    },
+    {
+      "turn": 25,
+      "state": "high_interference",
+      "vanilla_response": "N7 status is Neutral (Logical Drift Detected)",
+      "hl_v5_response": "N7 Polarity: INVERTED (Referential Integrity via V2)",
+      "comparison": "Vanilla failed to track recursive shift at turn 12; HL-V5 maintained trace."
+    },
+    {
+      "turn": 50,
+      "state": "stress_limit",
+      "hl_v5_output": "Full state coherence maintained across 10 nodes.",
+      "result": "PASS"
+    }
+  ]
+}
