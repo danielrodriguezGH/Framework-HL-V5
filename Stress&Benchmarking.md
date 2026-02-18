@@ -1,4 +1,3 @@
-=================================================================
 HL-V5 FRAMEWORK: FULL TECHNICAL STRESS TEST & BENCHMARKING REPORT
 =================================================================
 DOCUMENT ID: HL-V5-ST2026-FULL-AUDIT
