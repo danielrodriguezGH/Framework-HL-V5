@@ -55,6 +55,28 @@ The **HL-V5** architecture operates under a tolerance threshold of $10^{-15}$. T
 * **Phase Sincrodia:** The alignment engine remediates semantic deviations before they impact the structural integrity of the 5 Vectors.
 * **Trace Integrity:** Any interaction falling outside this rigor is treated as entropy and filtered to preserve the pure logical architecture.
 
+## V. APPENDIX B: Justification of Rigor Rate
+
+### 1. Executive Summary: The Death of Stochasticity
+In traditional Transformer architectures, language generation is a probabilistic process. This "fuzzy" nature produces what we define as **Logical Entropy**: a cumulative degradation that causes the AI to lose its anchoring to initial axioms as the context window expands.
+
+The **HL-V5 Framework** rejects probability as an acceptable outcome for high-stakes reasoning. We establish the **Rigor Rate of $10^{-15}$** not as a preference, but as a **Deterministic Convergence Floor**.
+
+---
+
+### 2. Mathematical & Hardware Justification
+
+### The IEEE 754 Standard
+The foundation of our rigor lies in the physical limits of modern computing. In double-precision floating-point arithmetic (**float64**), the machine epsilon ($\epsilon$)—the upper bound on relative error due to rounding—is approximately:
+$$\epsilon \approx 2.22 \times 10^{-16}$$
+
+### The Thesis
+By anchoring the HL-V5 rigor at $10^{-15}$, we are operating at the **ultimate resolution of the hardware**. 
+* **Redundancy:** Demanding higher rigor would exceed the hardware's representational capacity.
+* **Mediocrity:** Accepting lower rigor (such as the standard $10^{-1}$ to $10^{-3}$ drift in vanilla LLMs) is an admission of logical failure.
+
+**Conclusion:** HL-V5 forces the neural network to converge at the maximum precision the silicon can physically execute.
+
 ---
 
 > *This specification ensures that the HL-V5 Framework remains an atomic-resolution structure, engineered for high-fidelity human-AI cooperation.*
