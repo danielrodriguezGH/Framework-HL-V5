@@ -1,4 +1,11 @@
 # Framework HL-V5
+
+Project: HL-V5 Framework
+
+Core: Deterministic Latent Mapping
+
+Standards: IEEE 754; Precision floor 1e-15 enforced via Logit-Bias Anchoring.
+
 **High-Level Logic at five Vectors**
 The HL-V5 is a high-precision recursive architecture designed to stabilize inference and mitigate logical entropy through five core Vectors. Driven by the Sincrodia Alignment Engine, the framework maintains a structural rigor of 
 10^
