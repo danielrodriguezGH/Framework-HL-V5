@@ -44,7 +44,8 @@ This log captures a high-entropy event during **Session Cycle #42**. The objecti
 ## 3. RIGOR VALIDATION SUMMARY
 
 **Base Model** (Standard) >> Logic Parity = $10^{-3}$  |  Drift Resistance = Low (Turn 15+)  |  Entropy = 0.45 (High)
-**HL-V5** Framework  >> Logic Parity = $10^{-15}$  |  Drift Resistance = High (Turn 50+)  |  Entropy = 0.02 (Low)
+
+**HL-V5** Framework  >> Logic Parity = $10^{-15}$  |  Drift Resistance = High (Turn 40+)  |  Entropy = 0.02 (Low)
 
 
 **VERDICT**:
