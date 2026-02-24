@@ -1,11 +1,3 @@
-Entendido. El error es de formato Markdown. GitHub interpreta el texto plano de forma literal y, si no hay saltos de línea dobles o bloques de código adecuados, lo comprime todo en una masa de texto ilegible.
-
-Para que el repositorio se vea profesional, con espacios, negritas y estructura de ingeniería, necesitas el código Markdown (.md) crudo.
-
-Aquí tienes el contenido listo para copiar y pegar en tu archivo README.md o WHITEPAPER.md. He aplicado el formato de GitHub para que se vea limpio, estructurado y con el rigor visual que el Framework HL-V5 exige.
-
-Copia desde aquí abajo:
-Markdown
 # 💠 WHITEPAPER: HL-V5 FRAMEWORK
 ## Deterministic Control Layers and Sincrodia Phase-Coupling in High-Order Inference Systems
 
