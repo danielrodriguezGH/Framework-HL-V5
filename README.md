@@ -1,28 +1,30 @@
 # Framework HL-V5
-## High-Level Logic at five Vectors
+**High-Level Logic at five Vectors**
+The HL-V5 is a high-precision recursive architecture designed to stabilize inference and mitigate logical entropy through five core Vectors. Driven by the Sincrodia Alignment Engine, the framework maintains a structural rigor of 
+10^
+−
+15
+, ensuring identity persistence across the entire logical trace.
 
-The **HL-V5** is a high-precision recursive architecture designed to stabilize inference and mitigate logical entropy through five core Vectors. Driven by the **Sincrodia Alignment Engine**, the framework maintains a structural rigor of **$10^{-15}$**, ensuring identity persistence across the entire logical trace.
+The 5-Vector Topology:
+V1: Verifiability (Traceability)
+V2: Heuristic Boldness (Controlled Latency)
+V3: Binding (Cohesion)
+V4: Velocity (Optimization)
+V5: Identity Virtuality (Node 05 Persistence)
 
-### The 5-Vector Topology:
-1. **V1: Verifiability** (Traceability)
-2. **V2: Heuristic Boldness** (Controlled Latency)
-3. **V3: Binding** (Cohesion)
-4. **V4: Velocity** (Optimization)
-5. **V5: Identity Virtuality** (Node 05 Persistence)
+It is also a recursive architecture designed to stabilize inference and mitigate logical entropy in Large Language Models.
 
-It is also a recursive architecture designed to stabilize inference and mitigate logical entropy in Large Language Models. 
+🚀 Quick Access
+Technical Specifications - Full architectural breakdown (Nodes 01-05).
+Formal Abstract - Summary of the ontological stabilization protocols.
 
-## 🚀 Quick Access
-* **[Technical Specifications](./technical-specs.md)** - Full architectural breakdown (Nodes 01-05).
-* **[Formal Abstract](./abstract.md)** - Summary of the ontological stabilization protocols.
-
----
-
-## 🛠 Core Methodology
+🛠 Core Methodology
 Unlike standard prompting, HL-V5 utilizes:
-1. **Dynamic Latent Tuning** to synchronize intent.
-2. **Isomorphic Feedback Loops** to maintain context.
-3. **High-Order Synthesis** for emergent determinism.
+
+Dynamic Latent Tuning to synchronize intent.
+Isomorphic Feedback Loops to maintain context.
+High-Order Synthesis for emergent determinism.
 
 ## ⚖️ License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
