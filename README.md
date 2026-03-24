@@ -8,7 +8,7 @@ Standards: IEEE 754; Precision floor 10^-15 enforced via Logit-Bias Anchoring, u
 
 **High-Level Logic at five Vectors (validation 5)* 
 The HL-V5 is a high-precision recursive architecture designed to stabilize inference and mitigate logical entropy through five core Vectors. Driven by the Sincrodia Alignment Engine, the framework maintains a structural rigor of 
-10^-15 and a Dynamic Equilibrium Point in Model Resource and Bias Distribution of 64.3/35.7
+10^-15 , and a Dynamic Equilibrium Point in Model Resource and Bias Distribution of 64.3/35.7
 −
 15
 , ensuring identity persistence across the entire logical trace.
