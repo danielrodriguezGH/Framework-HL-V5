@@ -43,7 +43,7 @@ Consolidates multiple processing layers into **Emergent Determinism**. It enable
 The injection of expert subjectivity as an **External Reward Function (ERF)**. The Architect provides the strategic direction vector, ensuring **Operational Relevance** and keeping model autonomy within defined execution limits.
 
 ### NODE 05 - Contextual Persistence (Isomorphic Feedback Loop)
-Rigor (Node 01) audits what Persistence (Node 05) stores. This interaction ensures a non-degradable logical state, preventing the persistence of errors and maintaining a "Golden Trace" of the session.
+Rigor (Node 01) audits what Persistence (Node 05) stores. This interaction ensures a non-degradable logical state, preventing the persistence of errors and maintaining a "Golden Trace" of the session. Keeping a Dynamic Equilibrium Point in Model Resource and Bias Distribution of 64.3/35.7 %
 
 ---
 
